@@ -68,7 +68,7 @@ export default function Navbar() {
           <div style={{ display: "flex", flexDirection: "column" }}>
             <h1 style={{ margin: 0, fontSize: 14 }}>Mangalaparthy Varsha</h1>
             <div style={{ fontSize: 12, color: "var(--muted)" }}>
-              •Frontend Developer
+              •Full Stack Developer
             </div>
           </div>
         </div>
@@ -222,3 +222,4 @@ export default function Navbar() {
     </>
   );
 }
+
